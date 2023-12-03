@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<!--BMO-Financia## Hi there 👋
+<!--BMO-Financial-Inc## Hi there 👋
 
-<!--BMO-Financial-Inc/.github is a special repository: this README.md will appear on your public organization profile, visible to anyone.Chais Fitzwater stock portfolio - Google Finance November, 26. 2023 8:10 am 1160 walker ave, saint Louis. Mo 63138..https://www.etcorps.comI would like to propose moving support for the PulseAudio sound server into Arch Linux proper. This would also be in preparation for the eventual arrival of Gnome 3, since it will be unlikely we can effectively maintain the needed GStreamer patch any more.
+<!--BMO-Financial-Inc/etcorps.github is a special repository: this README.md will appear on your public organization profile, visible to anyone. ChaisFitzwater@etcorps.onmicrosoft.com stock portfolio - Google Finance November, 26. 2023 8:10 am 1160 walker ave, saint Louis. Mo 63138. https://www.etcorps.com
+
+also the company held by the user "master333-ui-web"& "master-web-url-et" would like to propose moving support for the PulseAudio sound server into Arch Linux proper. This would also be in preparation for the eventual arrival of Gnome 3, since it will be unlikely we can effectively maintain the needed GStreamer patch any more.
 
 To that effect I have created a plan:
 
